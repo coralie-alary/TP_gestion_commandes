@@ -1,0 +1,2 @@
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\travail_groupe_gestion_commandes\bin\Debug\travail_groupe_gestion_commandes.exe.config
+C:\Users\coral\Documents\Visual Studio 2015\Projects\console\travail_groupe_gestion_commandes\travail_groupe_gestion_commandes\bin\Debug\travail_groupe_gestion_commandes.exe.config

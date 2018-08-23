@@ -1,0 +1,10 @@
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\dll\obj\Debug\dll.csprojResolveAssemblyReference.cache
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\dll\bin\Debug\dll.dll
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\dll\bin\Debug\dll.pdb
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\dll\obj\Debug\dll.dll
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\dll\obj\Debug\dll.pdb
+C:\Users\coral\Documents\Visual Studio 2015\Projects\console\travail_groupe_gestion_commandes\dll\obj\Debug\dll.csprojResolveAssemblyReference.cache
+C:\Users\coral\Documents\Visual Studio 2015\Projects\console\travail_groupe_gestion_commandes\dll\obj\Debug\dll.dll
+C:\Users\coral\Documents\Visual Studio 2015\Projects\console\travail_groupe_gestion_commandes\dll\obj\Debug\dll.pdb
+C:\Users\coral\Documents\Visual Studio 2015\Projects\console\travail_groupe_gestion_commandes\dll\bin\Debug\dll.dll
+C:\Users\coral\Documents\Visual Studio 2015\Projects\console\travail_groupe_gestion_commandes\dll\bin\Debug\dll.pdb

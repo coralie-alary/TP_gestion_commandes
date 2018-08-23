@@ -1,0 +1,19 @@
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\ihm\bin\Debug\ihm.exe.config
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\ihm\bin\Debug\ihm.exe
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\ihm\bin\Debug\ihm.pdb
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\ihm\obj\Debug\ihm.csprojResolveAssemblyReference.cache
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\ihm\obj\Debug\ihm.Properties.Resources.resources
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\ihm\obj\Debug\ihm.csproj.GenerateResource.Cache
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\ihm\obj\Debug\ihm.exe
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\ihm\obj\Debug\ihm.pdb
+C:\Users\coral\Desktop\travail_groupe_gestion_commandes\ihm\bin\Debug\ihm.exe.config
+C:\Users\coral\Desktop\travail_groupe_gestion_commandes\ihm\obj\Debug\ihm.exe
+C:\Users\coral\Desktop\travail_groupe_gestion_commandes\ihm\obj\Debug\ihm.pdb
+C:\Users\coral\Documents\Visual Studio 2015\Projects\console\travail_groupe_gestion_commandes\ihm\bin\Debug\ihm.exe.config
+C:\Users\coral\Documents\Visual Studio 2015\Projects\console\travail_groupe_gestion_commandes\ihm\obj\Debug\ihm.exe
+C:\Users\coral\Documents\Visual Studio 2015\Projects\console\travail_groupe_gestion_commandes\ihm\obj\Debug\ihm.pdb
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\ihm\obj\Debug\ihm.Vues.Fenetre_gestion.resources
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\ihm\obj\Debug\ihm.Vues.Fenetre_panier.resources
+C:\Users\muse\documents\visual studio 2015\Projects\travail_groupe_gestion_commandes\ihm\bin\Debug\dll.dll
+C:\Users\muse\documents\visual studio 2015\Projects\travail_groupe_gestion_commandes\ihm\bin\Debug\dll.pdb
+C:\Users\muse\Documents\Visual Studio 2015\Projects\travail_groupe_gestion_commandes\ihm\obj\Debug\ihm.Vues.Fenetre_client.resources
